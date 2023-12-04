@@ -1111,7 +1111,7 @@ textarea:focus {
 }
 .main-menu > nav > ul > li {
     display: inline-block;
-    margin: 0 26px;
+    margin: 0 20px;
     position: relative;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -2553,7 +2553,7 @@ textarea:focus {
     visibility: visible;
 }
 .section-padding-1 {
-    padding: 0 150px;
+    padding: 0 100px;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1366px) {
     .section-padding-1 {
